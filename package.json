@@ -1,0 +1,20 @@
+{
+  "name": "molicar-api",
+  "version": "1.0.1",
+  "description": "Molicar API",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "supervisor start.js"
+  },
+  "author": "Deivid Fortuna <deividfortuna@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "object-hash": "^1.1.8",
+    "request": "^2.81.0",
+    "xml2js": "^0.4.17"
+  }
+}
