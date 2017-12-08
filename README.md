@@ -1,5 +1,5 @@
 # Molicar
-Biblioteca em PHP para tabela Molicar :sunglasses: :moneybag:
+API em javascript para tabela Molicar :sunglasses: :moneybag:
 
 Gostou da API? Gostaria de me pagar um café? Basta clicar no botão abaixo e escolher o valor que você achar adequado. Obrigado. :sleeping:
 
