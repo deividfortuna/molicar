@@ -1,3 +1,5 @@
+## Não esta funcionando devido a mudanças da Molicar :sob:
+
 # Molicar
 Microserviço em node da tabela Molicar :sunglasses: :moneybag:
 
